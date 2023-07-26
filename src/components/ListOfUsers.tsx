@@ -10,7 +10,7 @@ import {
     Badge
   } from "@tremor/react";
   import { useAppSelector } from '../hooks/store';
-  import { useUserActions } from "../hooks/useUserAction";
+  import { useUserActions } from "../hooks/useUserActions";
 
 
   export function ListOfUsers() {
